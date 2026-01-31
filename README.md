@@ -4,7 +4,7 @@ The National Collegiate Athletic Association (NCAA) basketball tournaments capti
 
 In this project, we embark on a journey into the heart of college basketball analytics, driven by the conviction that data has the power to unlock new dimensions of understanding and transform the way we perceive and engage with the game.
 
-## Tools and Models Used
+## Tools and models
 
 - Exploratory Data Analysis (EDA): Descriptive statistics, plots and tests to understand distributions, variability, and data quality.
 - Linear Regression (OLS): Modelling the relationship between Adjusted Offensive Efficiency and win ratio, including hypothesis testing and confidence intervals.
